@@ -1,3 +1,7 @@
 # Data-Analysis
 
-#Priview of read and write to a CSV file
+#Preview of read and write to a CSV file
+
+#Projects -  to read files and identify specific criteria
+ ----Misbehaving devices
+ ----Wrongly charged customers
